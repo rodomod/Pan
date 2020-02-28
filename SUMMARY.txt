@@ -2,5 +2,5 @@
 
 * [Introduction](Readme.md)
 * [Pan](Pan.java)
-* [Pan](An.png)
+* [An](An.png)
 * [LICENSE](LICENSE.md)
